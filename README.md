@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/Telegram-@easy_to_d0-blue?logo=telegram&style=flat" alt="Telegram">
 </a>
 
-[Tg](https://t.me/so_eazzy)
+[Telegram](https://t.me/@easy_to_d0)
 
 Репозиторий содержит проекты, выполненные в рамках различных учебных курсов.
 
